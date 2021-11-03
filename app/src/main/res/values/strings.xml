@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Started-services</string>
+    <string name="pregunta"> Cual es el secreto de la comedia?</string>
+    <string name="respuesta">timing!</string>
+</resources>
